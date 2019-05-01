@@ -1,8 +1,10 @@
 # RESUME
 
-###Venkatesh Rao
+### Venkatesh Rao
+======
 
-*698, Water tank, 1 E cross, 3rd block, 4th stage, Basaveshvarnagar Nagar, Bangalore*
+`*698, Water tank, 1 E cross, 3rd block, 4th stage, Basaveshvarnagar Nagar, Bangalore*`
+------
 
 Phone - 9742347156 | E-mail - belurvrao@gmail.om
 Swing Trader/Contrarian View
@@ -17,36 +19,36 @@ Reseller/Service Provider • Oct, 2017 — Present
 
 Installing full stack (out of the box), upgrading, configuring, designing and implementing
 
-    On-site training
-    Print Formats
-    Provide all hardwares
+⋅⋅* On-site training
+⋅⋅* Print Formats
+⋅⋅* Provide all hardwares
 
 Swati Infosystems
 System Admin • Jun, 2011 — Sept, 2012
 
 Assembling the Hardware, Networking, TCP/IP, Installing Windows/Linux
 
-    Hardware - Networking - Crimping Tool
-    Installations - Windows, Linux,
-    Server Admin - Active DirectoryPost Sale Services
+⋅⋅* Hardware - Networking - Crimping Tool
+⋅⋅* Installations - Windows, Linux,
+⋅⋅* Server Admin - Active DirectoryPost Sale Services
 
 Showoff Retail
 Cashier/ ASM • Oct, 2015 — Mar, 2019
 
 Receive payment by cash, credit cards, Gift vouchers.
 
-    Handling Cash, Card and Credit Notes
-    Exchange - issuing Credit Notes
-    Cash Deposit and Petty Cash
+⋅⋅* Handling Cash, Card and Credit Notes
+⋅⋅* Exchange - issuing Credit Notes
+⋅⋅* Cash Deposit and Petty Cash
 
 Taj Gateway & KSTDC
 Chef • Jun, 2012 — May, 2013
 
 Cook
 
-    South Indian
-    Indo-Chinese
-    Continentals
+⋅⋅* South Indian
+⋅⋅* Indo-Chinese
+⋅⋅* Continentals
 
 Education
 Bombay University
