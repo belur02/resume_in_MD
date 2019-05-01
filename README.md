@@ -123,37 +123,37 @@ Additional Links
     The professional publishing platform
 
 ##Personal Details
-**Father Name**             B Suerendra Rao
+**Father Name** |   B Suerendra Rao
+--- | --- 
+**Mother Name** |  B Shobha Rao
 
-**Mother Name**             B Shobha Rao
+**Date of Birth** |  02.12.1991
 
-**Date of Birth**           02.12.1991
+**Sex** |  Male
 
-**Sex**                     Male
+**Nationality** |  Indian
 
-**Nationality**             Indian
+**Address** |  698, Ground Floor, 1 E Cross, 4th Block, 3rd Stage, Kamala Nagar, Basaveshwara Nagar - 560079
 
-**Address**                 698, Ground Floor, 1 E Cross, 4th Block, 3rd Stage, Kamala Nagar, Basaveshwara Nagar - 560079
+**City** |  Bengaluru North
 
-**City**                    Bengaluru North
+**Religion** |  Hindu
 
-**Religion**                Hindu
+**Marital Status** |  Single
 
-**Marital Status**          Single
+**Languages** |  Kannada, Hindi, English, Marathi, Punjabi and Konkani
 
-**Languages**               Kannada, Hindi, English, Marathi, Punjabi and Konkani
+**Permanent Address** |  Ulthoor Post, Kundapur Talluk, Udupi District, Karnataka - 576231
 
-**Permanent Address**       Ulthoor Post, Kundapur Talluk, Udupi District, Karnataka - 576231
+**UADAI No** |  7925 4562 7895 1525
 
-**UADAI No**                7925 4562 7895 1525
+**Telephone No** |  080 2322 003
 
-**Telephone No**            080 2322 003
+**Email ID** |  belurvrao@gmail.com
 
-**Email ID**                belurvrao@gmail.com
+**Mobile No** |  9742347156
 
-**Mobile No**               9742347156
-
-**Alternate No**            8217208799
+**Alternate No** |  8217208799
 
 ---
 
