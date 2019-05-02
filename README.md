@@ -7,8 +7,6 @@ Venkatesh Rao
 
 >I am a Swing Trader and self learnt web developer, fluent in C programming, HTML5, CSS, JavaScript, PHP & MySQL. also, i am a freethinker, Scientific humanist and a rationalist.
 
----
-
 ### Experience
 #### ERPNext
 Reseller/Service Provider • Oct, 2017 — Present
