@@ -129,7 +129,7 @@ Community member • 2017 — 2018
 * A peer-to-peer hypermedia protocol
 * The professional publishing platform
 
-### Personal Details | Data
+Personal Details | Data
 --- | --- 
 **Father Name** |   B Suerendra Rao
 **Mother Name** |  B Shobha Rao
