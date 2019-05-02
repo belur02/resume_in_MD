@@ -1,14 +1,9 @@
-# RESUME
+Venkatesh Rao
+======
 
-## Venkatesh Rao
+#### 698, Water tank, 1 E cross, 3rd block, 4th stage, Basaveshvarnagar Nagar, Bangalore
 
----
-
-698, Water tank, 1 E cross, 3rd block, 4th stage, Basaveshvarnagar Nagar, Bangalore
-------
-
-Phone - 9742347156 | E-mail - belurvrao@gmail.om
-------
+#### Phone - 9742347156 | E-mail - belurvrao@gmail.om
 
 >I am a Swing Trader and self learnt web developer, fluent in C programming, HTML5, CSS, JavaScript, PHP & MySQL. also, i am a freethinker, Scientific humanist and a rationalist.
 
@@ -48,6 +43,8 @@ Installing full stack (out of the box), upgrading, configuring, designing and im
 * Indo-Chinese
 * Continentals
 
+---
+
 ### Education
 #### Bombay University
 Bachelor of Science, Mathematics & Statistics • 2004 — 2008
@@ -62,6 +59,8 @@ Passed with 58%
 #### VPM's High School, Mulund, Bombay
 Metric • 2004
 Passed with 75%
+
+---
 
 ### Projects
 #### MS Office
@@ -80,6 +79,8 @@ Graphic Design • 2018 — Present
 * product updating/cataloging
 * updating Price & Quantities, Creating Promotions
 
+---
+
 ### Skills
 
 #### Organizational leadership
@@ -92,6 +93,8 @@ Digital content development and creation
 
 * Copy writing, graphic design, web design, front-end web development, print design
 
+---
+
 ### Recognition
 
 #### Cerificate for Social Works
@@ -101,6 +104,8 @@ Digital content development and creation
 * Inter-school Quiz & Play
 * Manjunatha High School, Mumbai • 1998
 * Won Inter-school Quiz among high school peers.
+
+---
 
 ### Associations
 
@@ -113,6 +118,8 @@ Community member • 2017 — 2018
 
 * I was actively involved in Community forums where I raised issues and requested missing features, helped facilitate organization communications through website maintenance, writing for online publication, and contributed towards documentation materials.
 
+---
+
 ### Outside Interests
 
 * History and Economics - Discovery of India & Wealth of the Nations
@@ -122,12 +129,18 @@ Community member • 2017 — 2018
 * IOT - Raspberry Pi - Linux/Raspibian/Ubuntu Mate
 * Technical Analysis - Indicators - Relative Strenght Index, AVWAP, Renko, moving averages, Volatility Index(VIX)
 
+---
+
 ### Additional Links
 
 * Collaberative code Writing platform
 * A peer-to-peer stack for code collaboration
 * A peer-to-peer hypermedia protocol
 * The professional publishing platform
+
+---
+
+### Personal Details
 
 Personal Details | Data
 --- | --- 
